@@ -1,0 +1,123 @@
+body,
+div,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+ol,
+li,
+dt,
+dd,
+dl,
+input,
+form {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  font: 14px arial, 'microsoft yahei';
+  color: #fff;
+  background-color: #f2f4f3;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+em,
+i,
+b,
+del,
+ins {
+  font-style: normal;
+}
+
+img {
+  vertical-align: middle;
+  border: 0 none;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: #333;
+  font: 14px arial, 'microsoft yahei';
+  text-decoration: none;
+}
+
+a:hover {
+  color: #333;
+  font: 14px arial, 'microsoft yahei';
+  text-decoration: none;
+}
+
+input {
+  border: 0 none;
+  outline: 0;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.w {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.f12 {
+  font-size: 12px;
+}
+
+.f14 {
+  font-size: 14px;
+}
+
+.f16 {
+  font-size: 16px;
+}
+
+.f18 {
+  font-size: 18px;
+}
+
+.f20 {
+  font-size: 20px;
+}
+
+.fl {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
+
+.clearfix:after,
+.clearfix:before {
+  content: "";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.clearfix {
+  *zoom: 1;
+}

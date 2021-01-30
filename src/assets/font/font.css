@@ -1,0 +1,10 @@
+@font-face {
+    font-family: hy;
+    src: url('./hy.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'fzcch';
+    src: url('./fzcch.ttf') format('truetype');
+}
